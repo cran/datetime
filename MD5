@@ -1,9 +1,9 @@
-0608542d01707951d3bfb82f7f826959 *DESCRIPTION
-af347e2dab7ae3fe8f12163c293e64b4 *NAMESPACE
+3032e9fc267092430b62fb944158d149 *DESCRIPTION
+b99008cccd9689c7b86d1b2879981881 *NAMESPACE
 986cf5cbd96c2bad431623d0aaf6fbff *R/as.second.R
 d8565ddb6a98a3e4a19e5ac90b69e548 *R/temporal.R
 d72153ac6b61c1b49089fef1ebc53650 *R/timeline.R
-588d8fb255cc555fa4e8b3eb7f312a3e *man/as.second.Rd
+4f81c1ab9b8f5d5366e8bb5d30e1b216 *man/as.second.Rd
 ce9d02d9be41cf303ece9169ab5a0f2b *man/c.temporal.Rd
-bcfe6ed45e2e4888145718667e9c4c5c *man/temporal.Rd
-64f294f71678e0519f2eeff447db8601 *man/toSAS.Rd
+1ad745417d50bf339e8943facd47543a *man/temporal.Rd
+f3878162d108f0a3aeee34a3f4c06008 *man/toSAS.Rd
