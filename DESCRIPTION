@@ -1,7 +1,7 @@
 Package: datetime
 Type: Package
 Title: Nominal Dates, Times, and Durations
-Version: 0.1.3
+Version: 0.1.4
 Author: Tim Bergsma
 Maintainer: Tim Bergsma <bergsmat@gmail.com>
 Description: Provides methods for working with nominal dates, times, and 
@@ -18,6 +18,6 @@ Suggests: chron, SASxport
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-Packaged: 2018-03-17 22:01:22 UTC; tbergsma
+Packaged: 2018-12-13 18:25:20 UTC; tbergsma
 Repository: CRAN
-Date/Publication: 2018-03-17 23:41:01 UTC
+Date/Publication: 2018-12-13 18:40:03 UTC
